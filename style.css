@@ -2,7 +2,7 @@
 
 body {
     font-family: 'Open Sans', sans-serif;
-    font-weight: lighter;
+    font-weight: bold;
     background: white;
 }
 
@@ -40,7 +40,7 @@ h2 {
     padding-bottom: 3em;
 }
 
-h3.written-in-ink {
+h3.written-in-WATLIME {
     font-size: 9pt;
     font-family: sans-serif;
     text-align: center;
@@ -55,7 +55,7 @@ h3.written-in-ink {
     top: 0;
 }
 
-.dark h3.written-in-ink {
+.dark h3.written-in-WATLIME {
     background: black;
 }
 
