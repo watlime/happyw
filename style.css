@@ -40,7 +40,7 @@ h2 {
     padding-bottom: 3em;
 }
 
-h3.written-in-WATLIME {
+h3.written-in-watlime {
     font-size: 9pt;
     font-family: sans-serif;
     text-align: center;
@@ -55,7 +55,7 @@ h3.written-in-WATLIME {
     top: 0;
 }
 
-.dark h3.written-in-WATLIME {
+.dark h3.written-in-watlime {
     background: black;
 }
 
